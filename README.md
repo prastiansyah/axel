@@ -21,3 +21,5 @@ This Python script provides an automation tool for launching and managing Chrome
    cd selenium-browser-automation
    pip install requirements.txt
    python main.py
+
+   ## Don't forget edit paths in config.json ##
