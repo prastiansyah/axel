@@ -18,7 +18,7 @@ This Python script provides an automation tool for launching and managing Chrome
 1. Clone the repository:
    ```bash
    git clone https://github.com/prastiansyah/axel.git
-   cd selenium-browser-automation
+   cd axel
    pip install requirements.txt
    python main.py
 
