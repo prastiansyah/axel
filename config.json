@@ -1,4 +1,6 @@
 {
-    "extension_path": "./path_to_extension",
-    "profile_path": "./path_to_profile"
+    "extension_path": "C:\\Users\\YourUsername\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extensions\\example_extension_id\\1.0_0",
+    "profile_path": "C:\\Users\\YourUsername\\ChromeProfiles\\CustomProfile"
 }
+## CHANGE PATHS ## 
+"PROFILE_PATH" IS FREE, YOU CAN CHANGE IT AS YOU WISH ##
