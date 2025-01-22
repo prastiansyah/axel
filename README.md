@@ -17,8 +17,8 @@ This Python script provides an automation tool for launching and managing Chrome
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/prastiansyah/axel.git
-   cd axel
+   git clone https://github.com/prastiansyah/dpnd.git
+   cd dpnd
    pip install requirements.txt
    python main.py
 
