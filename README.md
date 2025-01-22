@@ -17,7 +17,7 @@ This Python script provides an automation tool for launching and managing Chrome
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository/selenium-browser-automation.git
+   git clone https://github.com/prastiansyah/axel.git
    cd selenium-browser-automation
    pip install requirements.txt
    python main.py
